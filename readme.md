@@ -24,7 +24,7 @@ classDiagram
     class aluno{
         - nome
         - email
-        - cPF
+        - cpf
         - telefone
         - endereço
         - matrícula
