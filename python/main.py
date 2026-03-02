@@ -19,7 +19,7 @@ aluno = Aluno(
     "Rua paineiras eldorado 1300",
     )
 
-query = aluno.cadastrar(banco)
+query = aluno.cadastro(banco)
 # print (query)
 
 #banco.execute_query(query)
